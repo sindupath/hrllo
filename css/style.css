@@ -39,5 +39,5 @@ box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 
   padding: 40px;
   letter-spacing: 2px;
   word-spacing: 5px;
-  overflow:scroll;
+  overflow:hidden;
 }
